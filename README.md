@@ -4,7 +4,7 @@
 
 Example HTML, CSS, and JavaScript for searching for items in a Solr repository
 
-[Live demo](https://ble-lter.github.io/Solr-JavaScript-Search-Client/demo.html)
+[Live demo](https://lter-arc.github.io/Solr-JavaScript-Search-Client/demo.html)
 
 ## Motivation
 
