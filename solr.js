@@ -4,7 +4,7 @@
 
 var SOLR_CONFIG = {
     "server": "https://arcticdata.io/metacat/d1/mn/v2/query/solr?",  // Solr server
-    "filter": "knb-lter-bnz",  // Filter results for an organization or user
+    "filter": "knb-lter-ARC",  // Filter results for an organization or user
     "limit": 10,  // Max number of results to retrieve per page
     "resultsElementId": "searchResults",  // Element to contain results
     "urlElementId": "searchUrl",  // Element to display search URL
